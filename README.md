@@ -14,9 +14,13 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 - [Introduction](#introduction)
   - [Overview](#overview)
-  - [First Steps](#first-steps)
-  - [Official Resources](#official-resources)
   - [Other Platforms](#other-platforms)
+- [Community](#community)
+- [Installation](#installation)
+- [Software](#software)
+- [Hardware](#hardware)
+  - [Protocols](#protocols)
+  - [Configuration](#configuration)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -26,11 +30,23 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 - [openHAB](https://www.openhab.org/) - Official project website.
 
-### First Steps
-
-### Official Resources
-
 ### Other Platforms
+
+
+## Community
+
+
+## Installation
+
+
+## Software
+
+
+## Hardware
+
+### Protocols
+
+### Configuration
 
 ## License
 
