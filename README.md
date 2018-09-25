@@ -45,6 +45,7 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 ## Software
 
+- [openhab-android](https://github.com/openhab/openhab-android) - Client for Android.
 
 ## Hardware
 
