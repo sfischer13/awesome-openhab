@@ -32,6 +32,8 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 ### Other Platforms
 
+- [Home Assistant](https://www.home-assistant.io/) - Alternative written in Python.
+- [FHEM](http://fhem.de/fhem.html) - Alternative written in Perl.
 
 ## Community
 
