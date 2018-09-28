@@ -43,6 +43,7 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 - [openhabian](https://github.com/openhab/openhabian) - Installation on a Raspberry Pi.
 - [openhab-docker](https://github.com/openhab/openhab-docker) - Installation using Docker.
+- [openhab-snap](https://github.com/openhab/openhab-snap) - Installation on Ubuntu.
 
 ## Software
 
