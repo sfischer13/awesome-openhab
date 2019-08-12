@@ -1,4 +1,4 @@
-# Awesome openHAB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome **openHAB** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Useful resources for the [openHAB](https://www.openhab.org/) home automation platform
 
