@@ -51,6 +51,7 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 ## Hardware
 
+- [awesome-homematic](https://github.com/hobbyquaker/awesome-homematic) - Link collection for the HomeMatic system.
 
 ## License
 
