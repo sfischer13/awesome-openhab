@@ -49,6 +49,7 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 - [openhab-android](https://github.com/openhab/openhab-android) - Client for Android.
 - [openhab-ios](https://github.com/openhab/openhab-ios) - Client for iOS.
+- [openhab-windows](https://github.com/openhab/openhab-windows) - Client for Windows.
 
 ## Hardware
 
