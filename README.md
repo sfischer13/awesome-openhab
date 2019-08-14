@@ -19,8 +19,6 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 - [Installation](#installation)
 - [Software](#software)
 - [Hardware](#hardware)
-  - [Protocols](#protocols)
-  - [Configuration](#configuration)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -53,9 +51,6 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 
 ## Hardware
 
-### Protocols
-
-### Configuration
 
 ## License
 
