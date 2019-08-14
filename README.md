@@ -27,6 +27,7 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 ### Overview
 
 - [openHAB](https://www.openhab.org/) - Official project website.
+- [GitHub](https://github.com/openhab) - Official GitHub organization.
 
 ### Other Platforms
 
