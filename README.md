@@ -37,6 +37,7 @@ You might also like [awesome-smarthome](https://github.com/pfalcon/awesome-smart
 ## Community
 
 - [Forum](https://community.openhab.org/) - Support forum.
+- [Events](https://www.openhab.org/about/events.html) - List of community events.
 
 ## Installation
 
